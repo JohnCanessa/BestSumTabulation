@@ -13,7 +13,7 @@ On this pass we use tabulation.
 If interested in my comments and code in Java I invite you to read the
 following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/06/16/best-sum-tabulation/
 
 Remember that one of the best ways to learn is to read and experiment.
 
